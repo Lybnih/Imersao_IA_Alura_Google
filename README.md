@@ -50,3 +50,15 @@
 
 ## Aula 5: Criando um sistema para busca em documentos usando embeddings e a Gemini API
 
+-  **Etapa 1:** Construimos um sistema que permite a recuperação rápida e precisa de informações em grandes coleções de documentos.
+
+**Destaques da aula:**
+
+- **LLM para acesso a documentos:** Aprendemos a utilizar uma Large Language Model (LLM) para extrair informações e gerar resumos de documentos, facilitando o acesso e a compreensão do conteúdo.
+
+- **Criação de embeddings:** Exploramos o processo de criação de embeddings, representações vetoriais que capturam a similaridade semântica entre documentos, permitindo buscas mais eficientes e precisas.
+
+- **Imagens:**
+
+  ![image](https://github.com/Lybnih/Imersao_IA_Alura_Google/assets/132515156/a5290061-ad6d-4e4a-9588-91f95a3304db)
+
